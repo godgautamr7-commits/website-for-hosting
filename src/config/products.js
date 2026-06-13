@@ -18,8 +18,8 @@ export const productData = [
     icon: FaServer,
     description: "Stable VPS hosting with root access.",
     plans: [
-      { title: "Starter VPS", ram: "4GB", cpu: "2 vCPU", storage: "40GB SSD", bandwidth: "2TB", price: 130 },
-      { title: "Basic VPS", ram: "6GB", cpu: "3 vCPU", storage: "60GB SSD", bandwidth: "3TB", price: 180 },
+      { title: "Starter VPS", ram: "4GB", cpu: "2 vCPU", storage: "40GB SSD", bandwidth: "2TB", price: 230 },
+      { title: "Basic VPS", ram: "6GB", cpu: "3 vCPU", storage: "60GB SSD", bandwidth: "3TB", price: 380 },
       { title: "Standard VPS", ram: "8GB", cpu: "4 vCPU", storage: "80GB SSD", bandwidth: "4TB", price: 240 },
     ],
   },
